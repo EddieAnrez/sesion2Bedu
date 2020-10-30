@@ -1,0 +1,41 @@
+.header-container-padre {
+    display: flex;
+    font-family: sans-serif;
+    height: 45px;
+    margin-top: 20px;
+}
+
+li {
+    display: inline;
+    list-style: none;
+    color: #025157;
+    margin-right: 25px;
+    margin-left: 25px;
+    text-align: center;
+}
+
+.login {
+    display: inline;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #67b54b;
+}
+
+.boton-login {
+    color: white;
+    background-color: #67b54b;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.actions {
+    font-size: 14px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: right;
+}
